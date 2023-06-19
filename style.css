@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: linear-gradient(rgb(25, 216, 133),rgb(251, 255, 0));
+}
+.line {
+    width: 75px;
+    height: 5px;
+    background-color: black;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#chatbots iframe{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.img {
+margin: 20px;
+width: 400px;
+height: 450px;
+}
+
+.img:hover {
+transform: scale(1.1);
+}
+
+#slider,#slider_1 {
+background-color: yellow;
+}
